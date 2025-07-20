@@ -18,4 +18,4 @@ steps:
 images:
   - gcr.io/$PROJECT_ID/amazingapp:$COMMIT_SHA
 
-logs_bucket: gs://app-storagebucket-test
+logs_bucket: gs://app-storage-test112
